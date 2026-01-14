@@ -72,7 +72,7 @@
 **A platform designed specially for open-source contributors**
 
 🔗 Live Demo:  
-👉 https://codereview-frontend.jollysea-c5c0b121.centralus.azurecontainerapps.io  
+👉https://yours-code-assitant.netlify.app/
 
 🔗 Source Code:  
 👉 https://github.com/Arunodoy18  
