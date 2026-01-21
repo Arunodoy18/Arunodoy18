@@ -56,7 +56,7 @@
 **AI-powered waste classification & recycling intelligence system**
 
 🔗 Live Demo:  
-👉 https://frontend.jollysea-c5c0b121.centralus.azurecontainerapps.io  
+👉 https://wastifi.netlify.app/ 
 
 🔗 Source Code:  
 👉 https://github.com/Arunodoy18  
