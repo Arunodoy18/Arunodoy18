@@ -1,10 +1,9 @@
-
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#58a6ff">Arunodoy Banerjee</span>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Arunodoy%20Banerjee&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open%20Source%20%7C%203D%20Web&descAlignY=55" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Open+Source+Contributor;Backend+%26+3D+Web+Enthusiast;GSoC+%7C+MAANG+Dreamer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Engineer;Open+Source+Contributor;Java+%7C+Spring+Boot;3D+Web+%26+AI+Systems;GSoC+%7C+MAANG+Aspirant" />
 </p>
 
 <p align="center">
@@ -73,9 +72,9 @@
 👉 https://github.com/Arunodoy18
 
 **Highlights**
-- AI-based waste categorization  
-- Real-world SDG-focused solution  
-- Production deployed on Azure  
+- AI-based waste categorization
+- Real-world SDG-focused solution
+- Production deployed on Azure
 
 ---
 
@@ -89,9 +88,9 @@
 👉 https://github.com/Arunodoy18
 
 **Highlights**
-- Contributor-first workflow  
-- Code review & collaboration focused  
-- Built to support open-source ecosystems  
+- Contributor-first workflow
+- Code review & collaboration focused
+- Built to support open-source ecosystems
 
 ---
 
@@ -119,17 +118,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunodoy18&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arunodoy18&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunodoy18&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Arunodoy18&show_icons=true&theme=github_dark&hide_border=true" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Arunodoy18&theme=github-dark&hide_border=true" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -156,5 +154,3 @@ Currently focused on:
 <p align="center">
   ⭐ If you like my work, consider starring my repositories!
 </p>
-
-
