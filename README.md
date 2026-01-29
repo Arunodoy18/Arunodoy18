@@ -1,11 +1,22 @@
 
-<h1 align="center">Hi 👋, I'm Arunodoy Banerjee</h1>
-<h3 align="center">Software Engineer | Open Source Contributor | Backend & 3D Web Enthusiast</h3>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#58a6ff">Arunodoy Banerjee</span>
+</h1>
 
 <p align="center">
-  <a href="https://github.com/Arunodoy18"><img src="https://img.shields.io/github/followers/Arunodoy18?label=Followers&style=for-the-badge" /></a>
-  <a href="https://leetcode.com/u/Arunodoy_45/"><img src="https://img.shields.io/badge/LeetCode-Arunodoy_45-orange?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/arunodoy-banerjee-214251342/"><img src="https://img.shields.io/badge/LinkedIn-Arunodoy%20Banerjee-blue?style=for-the-badge" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Open+Source+Contributor;Backend+%26+3D+Web+Enthusiast;GSoC+%7C+MAANG+Dreamer" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Arunodoy18">
+    <img src="https://img.shields.io/github/followers/Arunodoy18?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/u/Arunodoy_45/">
+    <img src="https://img.shields.io/badge/LeetCode-Arunodoy_45-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.linkedin.com/in/arunodoy-banerjee-214251342/">
+    <img src="https://img.shields.io/badge/LinkedIn-Arunodoy%20Banerjee-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
@@ -24,29 +35,29 @@
 ## 🛠️ Tech Stack
 
 ### 🔹 Backend
-- **Java**, **Spring Boot**
-- **Python** (FastAPI)
-- REST APIs, Authentication, Microservices
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" />
+</p>
 
 ### 🔹 Databases
-- **MongoDB**
-- **PostgreSQL**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
 
 ### 🔹 Frontend
-- **JavaScript**, **TypeScript**
-- **HTML**, **CSS**
-- **React**, **Next.js**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs" />
+</p>
 
 ### 🔹 3D & Advanced Web
-- **Three.js**
-- **@react-three/fiber**
-- **@react-three/drei**
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs" />
+</p>
 
 ### 🔹 Tools & Platforms
-- Git & GitHub
-- Docker
-- Azure (Container Apps)
-- Linux
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,azure,linux" />
+</p>
 
 ---
 
@@ -55,38 +66,38 @@
 ### ♻️ Smart Waste Management AI
 **AI-powered waste classification & recycling intelligence system**
 
-🔗 Live Demo:  
-👉 https://wastifi.netlify.app/ 
+🚀 **Live Demo**  
+👉 https://wastifi.netlify.app/
 
-🔗 Source Code:  
-👉 https://github.com/Arunodoy18  
+🧠 **Source Code**  
+👉 https://github.com/Arunodoy18
 
 **Highlights**
-- AI-based waste categorization
-- Real-world SDG-focused solution
-- Production deployed on Azure
+- AI-based waste categorization  
+- Real-world SDG-focused solution  
+- Production deployed on Azure  
 
 ---
 
 ### 🧠 Code Review Platform (For Contributors)
 **A platform designed specially for open-source contributors**
 
-🔗 Live Demo:  
-👉https://yours-code-assitant.netlify.app/
+🚀 **Live Demo**  
+👉 https://yours-code-assitant.netlify.app/
 
-🔗 Source Code:  
-👉 https://github.com/Arunodoy18  
+🧠 **Source Code**  
+👉 https://github.com/Arunodoy18
 
 **Highlights**
-- Contributor-first workflow
-- Code review & collaboration focused
-- Built to support open-source ecosystems
+- Contributor-first workflow  
+- Code review & collaboration focused  
+- Built to support open-source ecosystems  
 
 ---
 
 ## 📈 Competitive Programming
 
-- 🧠 **LeetCode:**  
+- 🧠 **LeetCode**  
   👉 https://leetcode.com/u/Arunodoy_45/
 
 - Strong foundation in:
@@ -99,10 +110,26 @@
 ## 🌐 Open Source
 
 - Active contributor on GitHub
-- Experience working with large codebases
+- Experience with large-scale codebases
 - Comfortable with issues, PRs, reviews, and discussions
 
 👉 GitHub: https://github.com/Arunodoy18
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arunodoy18&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arunodoy18&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunodoy18&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
@@ -110,14 +137,14 @@
 
 - 📧 Email: **barun4927@gmail.com**
 - 📱 Phone: **+91 9864446805**
-- 💼 LinkedIn:  
+- 💼 LinkedIn  
   👉 https://www.linkedin.com/in/arunodoy-banerjee-214251342/
 
 ---
 
 ## ✨ Vision
 
-> _"I build systems that solve real problems — scalable, maintainable, and impactful."_  
+> _"I build systems that solve real problems — scalable, maintainable, and impactful."_
 
 Currently focused on:
 - High-quality backend engineering
@@ -129,11 +156,6 @@ Currently focused on:
 <p align="center">
   ⭐ If you like my work, consider starring my repositories!
 </p>
-
-<!--
-**Arunodoy18/Arunodoy18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
