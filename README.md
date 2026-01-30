@@ -59,11 +59,20 @@
 </p>
 
 ---
-
 ## 🧩 Featured Projects
 
-### ♻️ Smart Waste Management AI
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&lines=Featured+Projects;Real-World+Systems;AI+%7C+Open+Source+%7C+Impact" />
+</p>
+
+### ♻️ Smart Waste Management AI  
 **AI-powered waste classification & recycling intelligence system**
+
+<p>
+  <img src="https://img.shields.io/badge/AI-Computer%20Vision-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deployed-Azure-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-SDG%20Impact-orange?style=flat-square" />
+</p>
 
 🚀 **Live Demo**  
 👉 https://wastifi.netlify.app/
@@ -72,14 +81,21 @@
 👉 https://github.com/Arunodoy18
 
 **Highlights**
-- AI-based waste categorization
-- Real-world SDG-focused solution
-- Production deployed on Azure
+- AI-based waste categorization  
+- Real-world SDG-focused solution  
+- Production deployed on Azure  
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
-### 🧠 Code Review Platform (For Contributors)
+### 🧠 Code Review Platform (For Contributors)  
 **A platform designed specially for open-source contributors**
+
+<p>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor%20First-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Collaboration-Code%20Review-success?style=flat-square" />
+</p>
 
 🚀 **Live Demo**  
 👉 https://yours-code-assitant.netlify.app/
@@ -88,32 +104,31 @@
 👉 https://github.com/Arunodoy18
 
 **Highlights**
-- Contributor-first workflow
-- Code review & collaboration focused
-- Built to support open-source ecosystems
+- Contributor-first workflow  
+- Code review & collaboration focused  
+- Built to support open-source ecosystems  
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
 ## 📈 Competitive Programming
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Competitive+Programming;Data+Structures+%26+Algorithms;Problem+Solving+Mindset" />
+</p>
 
 - 🧠 **LeetCode**  
   👉 https://leetcode.com/u/Arunodoy_45/
 
 - Strong foundation in:
-  - Data Structures
-  - Algorithms
-  - Problem Solving
+  - Data Structures  
+  - Algorithms  
+  - Problem Solving  
 
----
-
-## 🌐 Open Source
-
-- Active contributor on GitHub
-- Experience with large-scale codebases
-- Comfortable with issues, PRs, reviews, and discussions
-
-👉 GitHub: https://github.com/Arunodoy18
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 ---
 
 ## 📊 GitHub Activity
