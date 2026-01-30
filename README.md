@@ -116,18 +116,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Arunodoy18&show_icons=true&theme=github_dark&hide_border=true" />
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Arunodoy18&theme=github-dark&hide_border=true" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Contributions-300%2B-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current%20Streak-22%20Days-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Active-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  🔥 Consistent contributor with daily problem-solving and open-source activity  
+</p>
 
 ---
 
