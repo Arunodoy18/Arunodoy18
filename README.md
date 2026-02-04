@@ -32,15 +32,51 @@
 
 ---
 
-# 🧑‍💻 About Me
-## 🚀 About Me
+<!-- ================= ABOUT ME ANIMATED ================= -->
 
-- 💻 Software Engineer focused on **Backend Systems & Full-Stack Development**
-- 🌱 Strong in **Java + Spring Boot**, building scalable APIs
-- 🧠 Experienced in **AI-powered systems** & production deployments
-- 🌍 Active **Open Source Contributor**
-- 🎯 Currently building a **3D Portfolio using Three.js + React Three Fiber**
-- 🏆 Aiming for **GSoC, MAANG, and top global fellowships**
+<h2 align="center">🧑‍💻 About Me</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+Building+Scalable+Systems;Java+%7C+Spring+Boot+%7C+Distributed+Systems;AI+Systems+%7C+3D+Web+Developer;Open+Source+Contributor+%F0%9F%8C%8D;Future+GSoC+%7C+MAANG+Engineer" />
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Engineering Focus
+
+💻 **Backend Systems & Full-Stack Development**  
+🌱 **Java + Spring Boot → Scalable APIs**  
+🧠 **AI Powered Production Systems**  
+🌍 **Active Open Source Contributor**  
+
+---
+
+### 🌌 Currently Building
+
+🎯 **3D Portfolio → Three.js + React Three Fiber**  
+⚡ **High Performance Backend Architectures**  
+🤖 **AI + Backend System Integration**  
+
+---
+
+### 🏆 Career Vision
+
+🥇 **Google Summer of Code (GSoC)**  
+🏢 **MAANG Level Engineering**  
+🌍 **Top Global Tech Fellowships**  
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Engineering-00E7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Systems-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/3D-Web-8A2BE2?style=for-the-badge"/>
+</p>
 
 ## 🛠️ Tech Stack
 
