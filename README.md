@@ -1,25 +1,38 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Arunodoy%20Banerjee&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open%20Source%20%7C%203D%20Web&descAlignY=55" />
-</p>
+<!-- ================= HEADER WAVE ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Engineer;Open+Source+Contributor;Java+%7C+Spring+Boot;3D+Web+%26+AI+Systems;GSoC+%7C+MAANG+Aspirant" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,70:2c5364,100:00c6ff&height=260&section=header&text=Arunodoy%20Banerjee&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20|%20Open%20Source%20|%203D%20Web%20|%20AI&descAlignY=58" />
 </p>
+
+---
+
+<!-- ================= TYPING INTRO ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Backend+Engineer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%8D;Java+%7C+Spring+Boot+%7C+Distributed+Systems;3D+Web+%7C+AI+Systems;GSoC+%7C+MAANG+Aspirant" />
+</p>
+
+---
+
+<!-- ================= SOCIAL BADGES ================= -->
 
 <p align="center">
   <a href="https://github.com/Arunodoy18">
-    <img src="https://img.shields.io/github/followers/Arunodoy18?label=Followers&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/followers/Arunodoy18?style=for-the-badge&logo=github&color=0D1117&labelColor=000000"/>
   </a>
+
   <a href="https://leetcode.com/u/Arunodoy_45/">
-    <img src="https://img.shields.io/badge/LeetCode-Arunodoy_45-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-Arunodoy_45-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+
   <a href="https://www.linkedin.com/in/arunodoy-banerjee-214251342/">
-    <img src="https://img.shields.io/badge/LinkedIn-Arunodoy%20Banerjee-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Arunodoy%20Banerjee-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
+# 🧑‍💻 About Me
 ## 🚀 About Me
 
 - 💻 Software Engineer focused on **Backend Systems & Full-Stack Development**
@@ -28,8 +41,6 @@
 - 🌍 Active **Open Source Contributor**
 - 🎯 Currently building a **3D Portfolio using Three.js + React Three Fiber**
 - 🏆 Aiming for **GSoC, MAANG, and top global fellowships**
-
----
 
 ## 🛠️ Tech Stack
 
