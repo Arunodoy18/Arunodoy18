@@ -122,7 +122,7 @@
 </p>
 
 🚀 **Live Demo**  
-👉 https://wastifi.netlify.app/
+👉 https://wasitifi.buildc3.tech/
 
 🧠 **Source Code**  
 👉 https://github.com/Arunodoy18
