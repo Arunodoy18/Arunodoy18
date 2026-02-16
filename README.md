@@ -145,7 +145,7 @@
 </p>
 
 🚀 **Live Demo**  
-👉 https://yours-code-assitant.netlify.app/
+👉 https://reviewer.buildc3.tech/welcome
 
 🧠 **Source Code**  
 👉 https://github.com/Arunodoy18
