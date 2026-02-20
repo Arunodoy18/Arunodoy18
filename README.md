@@ -109,55 +109,87 @@
 ## 🧩 Featured Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&lines=Featured+Projects;Real-World+Systems;AI+%7C+Open+Source+%7C+Impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7DF9FF&center=true&vCenter=true&width=800&lines=Production+AI+Systems;Chrome+Extensions+%7C+Real-World+Deployment;Built+for+Scale+%26+Impact" />
 </p>
 
-### ♻️ Smart Waste Management AI  
-**AI-powered waste classification & recycling intelligence system**
+---
+
+## 🤖 AI Products (Live & Published)
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐱 Meow AI  
+**Universal AI Developer Copilot**
 
 <p>
-  <img src="https://img.shields.io/badge/AI-Computer%20Vision-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deployed-Azure-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-SDG%20Impact-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Universal-Context%20Aware-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Backend-Cloudflare%20Workers-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Security-Server%20Side%20Keys-success?style=flat-square"/>
 </p>
 
-🚀 **Live Demo**  
-👉 https://wasitifi.buildc3.tech/
+🚀 Works on GitHub, LeetCode, StackOverflow, Docs & more  
+🧠 Structured AI Intelligence  
+🔐 Zero setup — production secure  
 
-🧠 **Source Code**  
-👉 https://github.com/Arunodoy18
+</td>
+<td width="50%">
 
-**Highlights**
-- AI-based waste categorization  
-- Real-world SDG-focused solution  
-- Production deployed on Azure  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
-
-### 🧠 Code Review Platform (For Contributors)  
-**A platform designed specially for open-source contributors**
+### 🚀 Nakung AI  
+**LeetCode AI Coding Partner**
 
 <p>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor%20First-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Collaboration-Code%20Review-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mode-Socratic%20Mentor-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Model-Llama%203.1%208B-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/API-Groq-green?style=flat-square"/>
 </p>
 
-🚀 **Live Demo**  
-👉 https://reviewer.buildc3.tech/welcome
+🤝 Partner & Reviewer Modes  
+🎨 Animated Side Panel UI  
+💾 Context-Aware Problem Detection  
 
-🧠 **Source Code**  
-👉 https://github.com/Arunodoy18
+</td>
+</tr>
+</table>
 
-**Highlights**
-- Contributor-first workflow  
-- Code review & collaboration focused  
-- Built to support open-source ecosystems  
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+## ♻️ Real-World Systems
+
+<table>
+<tr>
+<td width="50%">
+
+### ♻️ Smart Waste AI  
+AI-powered waste classification system  
+
+<p>
+  <img src="https://img.shields.io/badge/AI-Computer%20Vision-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deployed-Azure-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-SDG%20Impact-orange?style=flat-square"/>
 </p>
+
+🌍 Production deployed  
+🎯 Sustainability focused  
+
+</td>
+<td width="50%">
+
+### 🧠 Contributor Review Platform  
+Open-source focused code review system  
+
+<p>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor%20First-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Collaboration-Code%20Review-success?style=flat-square"/>
+</p>
+
+🚀 Built for OSS ecosystems  
+🔎 Review-first workflow  
+
+</td>
+</tr>
+</table>
 
 ## 📈 Competitive Programming
 
