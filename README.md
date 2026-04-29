@@ -161,8 +161,8 @@
 <tr>
 <td width="50%">
 
-### ♻️ Smart Waste AI  
-AI-powered waste classification system  
+### 🚀 TalentSync
+AI-powered job pipeline system 
 
 <p>
   <img src="https://img.shields.io/badge/AI-Computer%20Vision-brightgreen?style=flat-square"/>
@@ -171,7 +171,7 @@ AI-powered waste classification system
 </p>
 
 🌍 Production deployed  
-🎯 Sustainability focused  
+🎯 Hiring optimization focused  
 
 </td>
 <td width="50%">
