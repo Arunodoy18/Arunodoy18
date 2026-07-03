@@ -1,7 +1,7 @@
 <!-- ================= HEADER WAVE ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,70:2c5364,100:00c6ff&height=260&section=header&text=Arunodoy%20Banerjee&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20|%20Open%20Source%20|%203D%20Web%20|%20AI&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,70:2c5364,100:00c6ff&height=260&section=header&text=Arunodoy%20Banerjee&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Automation%20Developer%20|%20Founder%20@%20buildc3.tech&descAlignY=58" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 <!-- ================= TYPING INTRO ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Backend+Engineer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%8D;Java+%7C+Spring+Boot+%7C+Distributed+Systems;3D+Web+%7C+AI+Systems;GSoC+%7C+MAANG+Aspirant" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+Automation+%26+RAG+Agents+%F0%9F%A4%96;TypeScript+%7C+Next.js+%7C+Postgres+%7C+Stripe;Founder+%40+buildc3.tech;Shipping+real+products+people+use" />
 </p>
 
 ---
@@ -20,230 +20,216 @@
   <a href="https://github.com/Arunodoy18">
     <img src="https://img.shields.io/github/followers/Arunodoy18?style=for-the-badge&logo=github&color=0D1117&labelColor=000000"/>
   </a>
-
   <a href="https://leetcode.com/u/Arunodoy_45/">
-    <img src="https://img.shields.io/badge/LeetCode-Arunodoy_45-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-Arunodoy__45-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/arunodoy-banerjee-214251342/">
+  <a href="https://www.linkedin.com/in/arunodoy-banerjee/">
     <img src="https://img.shields.io/badge/LinkedIn-Arunodoy%20Banerjee-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://banerjee.buildc3.tech">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- ================= ABOUT ME ANIMATED ================= -->
+<!-- ================= ABOUT ME ================= -->
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+Building+Scalable+Systems;Java+%7C+Spring+Boot+%7C+Distributed+Systems;AI+Systems+%7C+3D+Web+Developer;Open+Source+Contributor+%F0%9F%8C%8D;Future+GSoC+%7C+MAANG+Engineer" />
-</p>
-
----
-
 <div align="center">
 
-### 🚀 Engineering Focus
-
-💻 **Backend Systems & Full-Stack Development**  
-🌱 **Java + Spring Boot → Scalable APIs**  
-🧠 **AI Powered Production Systems**  
-🌍 **Active Open Source Contributor**  
-
----
-
-### 🌌 Currently Building
-
-🎯 **3D Portfolio → Three.js + React Three Fiber**  
-⚡ **High Performance Backend Architectures**  
-🤖 **AI + Backend System Integration**  
-
----
-
-### 🏆 Career Vision
-
-🥇 **Google Summer of Code (GSoC)**  
-🏢 **MAANG Level Engineering**  
-🌍 **Top Global Tech Fellowships**  
+I build and ship <b>full-stack products end to end</b> — auth, databases, payments, and LLM pipelines.
+Second-year CS student, founder at <b>buildc3.tech</b>, and an AI-automation developer at <b>Axon Studio</b>.
+Currently going deeper on <b>data structures, algorithms, and systems fundamentals</b> alongside product work.
 
 </div>
 
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Engineering-00E7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full--Stack-Development-00E7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Automation-FF6B6B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Systems-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/3D-Web-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Founder-buildc3.tech-8A2BE2?style=for-the-badge"/>
 </p>
+
+---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Backend
+### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs" />
 </p>
 
-### 🔹 Databases
+### Databases & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=postgresql,supabase,mongodb" />
 </p>
 
-### 🔹 Frontend
+### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel" />
 </p>
 
-### 🔹 3D & Advanced Web
-<p>
-  <img src="https://skillicons.dev/icons?i=threejs" />
-</p>
-
-### 🔹 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,azure,linux" />
-</p>
+<sub><i>(Add Java / Spring Boot here only once you have a public repo that uses them — labelled "learning" until then.)</i></sub>
 
 ---
+
 ## 🧩 Featured Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7DF9FF&center=true&vCenter=true&width=800&lines=Production+AI+Systems;Chrome+Extensions+%7C+Real-World+Deployment;Built+for+Scale+%26+Impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7DF9FF&center=true&vCenter=true&width=800&lines=Shipped+%26+Live+in+Production;Full-Stack+SaaS+%7C+AI+Agents;Built+for+Real+Users" />
 </p>
-
----
-
-## 🤖 AI Products (Live & Published)
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🐱 Meow AI  
-**Universal AI Developer Copilot**
+### 🛰️ LeadRadar
+<b>Multi-tenant B2B outreach SaaS</b>
 
 <p>
-  <img src="https://img.shields.io/badge/Universal-Context%20Aware-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Backend-Cloudflare%20Workers-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Security-Server%20Side%20Keys-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Postgres-Row%20Level%20Security-336791?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Stripe-Billing-635BFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Apollo.io-API-000000?style=flat-square"/>
 </p>
 
-🚀 Works on GitHub, LeetCode, StackOverflow, Docs & more  
-🧠 Structured AI Intelligence  
-🔐 Zero setup — production secure  
+Tenant isolation via Postgres RLS · lead sourcing through Apollo.io · Stripe subscriptions with webhook-driven MRR tracking · automated outreach with reply classification.
+
+🔗 <a href="https://github.com/Arunodoy18/Leadplease">Repository</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Nakung AI  
-**LeetCode AI Coding Partner**
+### 🗣️ Cadence
+<b>Conversational language-learning app</b>
 
 <p>
-  <img src="https://img.shields.io/badge/Mode-Socratic%20Mentor-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Model-Llama%203.1%208B-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/API-Groq-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Active%20Recall-00C853?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Product-Live-brightgreen?style=flat-square"/>
 </p>
 
-🤝 Partner & Reviewer Modes  
-🎨 Animated Side Panel UI  
-💾 Context-Aware Problem Detection  
+Built to produce <i>speakers</i>, not streaks — spoken practice and active recall over gamified habit loops.
+
+🔗 <a href="https://cadence.buildc3.tech">Live</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍎 DietBuddy
+<b>Nutrition & diet assistant</b>
+
+<p>
+  <img src="https://img.shields.io/badge/Role-Founder-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Product-Live-brightgreen?style=flat-square"/>
+</p>
+
+Personalized diet tracking and guidance for everyday users.
+
+🔗 <a href="https://dietbudy.buildc3.tech">Live</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 TalentSync
+<b>AI career assistant</b>
+
+<p>
+  <img src="https://img.shields.io/badge/Model-GPT--4o-412991?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Feature-Voice%20Interviews-blue?style=flat-square"/>
+</p>
+
+Resume feedback and voice-based mock interviews powered by GPT-4o.
+
+🔗 <a href="https://talentsync.buildc3.tech">Live</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 DeadZone
+<b>Connectivity mapping for Sikkim</b>
+
+<p>
+  <img src="https://img.shields.io/badge/Type-Civic%20Tech-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Region-Sikkim-teal?style=flat-square"/>
+</p>
+
+Mapping and responding to network dead zones across Sikkim.
+
+🔗 <a href="https://deadzone.buildc3.tech">Live</a> · <a href="https://github.com/Arunodoy18/zone-watch-ai">Repo</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Agents
+<b>RAG & conversational assistants</b>
+
+<p>
+  <img src="https://img.shields.io/badge/Pattern-RAG-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Channel-WhatsApp-25D366?style=flat-square"/>
+</p>
+
+WhatsApp RAG lead agent + conversational fitness assistant.
+
+🔗 <a href="https://github.com/Arunodoy18/Leadplease">Leadplease</a> · <a href="https://github.com/Arunodoy18/Gym-agent">Gym-agent</a>
 
 </td>
 </tr>
 </table>
 
+<sub><i>Meow AI / Nakung AI: add these back as cards once each has a public, runnable repo linked — describe them by what they actually do, no "production-secure / zero-setup" claims unless demonstrable.</i></sub>
+
 ---
 
-## ♻️ Real-World Systems
+## 📊 GitHub Stats <sub>(live — always accurate)</sub>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 TalentSync
-AI-powered job pipeline system 
-
-<p>
-  <img src="https://img.shields.io/badge/AI-Computer%20Vision-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Deployed-Azure-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Focus-SDG%20Impact-orange?style=flat-square"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arunodoy18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Arunodoy18&theme=tokyonight&hide_border=true" />
 </p>
 
-🌍 Production deployed  
-🎯 Hiring optimization focused  
-
-</td>
-<td width="50%">
-
-### 🧠 Contributor Review Platform  
-Open-source focused code review system  
-
-<p>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor%20First-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Collaboration-Code%20Review-success?style=flat-square"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunodoy18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
-🚀 Built for OSS ecosystems  
-🔎 Review-first workflow  
-
-</td>
-</tr>
-</table>
+---
 
 ## 📈 Competitive Programming
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Competitive+Programming;Data+Structures+%26+Algorithms;Problem+Solving+Mindset" />
-</p>
-
-- 🧠 **LeetCode**  
-  👉 https://leetcode.com/u/Arunodoy_45/
-
-- Strong foundation in:
-  - Data Structures  
-  - Algorithms  
-  - Problem Solving  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-300%2B-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Current%20Streak-22%20Days-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Active-orange?style=for-the-badge" />
+  <img src="https://leetcard.jacoblin.cool/Arunodoy_45?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </p>
 
 <p align="center">
-  🔥 Consistent contributor with daily problem-solving and open-source activity  
+  <a href="https://leetcode.com/u/Arunodoy_45/">
+    <img src="https://img.shields.io/badge/Solving%20on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
-## 📬 Contact Me
+## 📬 Contact
 
-- 📧 Email: **barun4927@gmail.com**
-- 📱 Phone: **+91 9864446805**
-- 💼 LinkedIn  
-  👉 https://www.linkedin.com/in/arunodoy-banerjee-214251342/
-
----
-
-## ✨ Vision
-
-> _"I build systems that solve real problems — scalable, maintainable, and impactful."_
-
-Currently focused on:
-- High-quality backend engineering
-- Open-source impact
-- 3D web experiences that stand out
+<p align="center">
+  <a href="mailto:arunodoy630@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arunodoy630@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arunodoy-banerjee/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://axonstudio.in">
+    <img src="https://img.shields.io/badge/Axon%20Studio-Work-000000?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider starring my repositories!
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" />
 </p>
+
+<p align="center">⭐ If you find my work useful, a star means a lot!</p>
