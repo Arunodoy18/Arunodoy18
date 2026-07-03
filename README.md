@@ -1,7 +1,7 @@
 <!-- ================= HEADER WAVE ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,70:2c5364,100:00c6ff&height=260&section=header&text=Arunodoy%20Banerjee&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Automation%20Developer%20|%20Founder%20@%20buildc3.tech&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,70:2c5364,100:00c6ff&height=260&section=header&text=Arunodoy%20Banerjee&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20AI%20Automation%20Developer%20%7C%20Founder%20buildc3.tech&descAlignY=58" />
 </p>
 
 ---
